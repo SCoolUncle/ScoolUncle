@@ -3,7 +3,7 @@
   <h2 style="text-align: center">GhostFace</h2>
 </div>
 
-<h6>Hi， 我是 GhostFace 🤡</h6>
+**Hi， 我是 GhostFace 🤡**
 
 
 🏢 北京
@@ -13,8 +13,13 @@
 喜欢探索新事物
 <hr>
 
-<h6>个人博客</h6>
+**个人博客**
 https://cooluncle.top
+
+**最近在读**
+* [《React技术揭秘》](https://react.iamkasong.com/)
+* [《重构：改善既有代码的设计》](https://weread.qq.com/web/bookDetail/2ed32e60811e3a304g014c02)
+* [《只管去做》](https://weread.qq.com/web/bookDetail/45f32420726172d145ff822)
 
 
 
