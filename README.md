@@ -3,12 +3,15 @@
 
 **Hi， 我是 GhostFace 🤡**
 
- 🏢 北京
- 👴 前端开发
- 目前在使用 Js & Ts、Node.js、Vue3、Nuxt 
- 经常游走在各大平台的评论区 👻
- 喜欢探索新事物
-<hr>
+🏢 北京
+
+👴 前端开发
+
+目前在使用 Js & Ts、Node.js、Vue3、Nuxt 
+
+经常游走在各大平台的评论区 👻
+
+喜欢探索新事物
 
 **个人博客**
 https://cooluncle.top
