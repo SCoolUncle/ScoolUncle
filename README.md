@@ -5,7 +5,7 @@
 
 👴 前端开发
 
-目前在使用 Js & Ts、Node.js、Vue3、Nuxt 
+目前在使用 Vue3 、React、TS、Vitest
 
 经常游走在各大平台的评论区 👻
 
