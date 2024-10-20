@@ -38,7 +38,7 @@ https://cooluncle.top
 **最近在读**
 
 * [《高效能人士的七个习惯》](https://weread.qq.com/web/reader/56d325907203e8a856def7f)
-* * [《只管去做》](https://weread.qq.com/web/bookDetail/45f32420726172d145ff822)
+* [《只管去做》](https://weread.qq.com/web/bookDetail/45f32420726172d145ff822)
 * [《程序员的README》](https://weread.qq.com/web/reader/10a328d0813ab8038g010b94)
 
 * [《React技术揭秘》](https://react.iamkasong.com/)
