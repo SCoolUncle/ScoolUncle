@@ -12,7 +12,7 @@
 喜欢探索新事物
 
 **个人博客**
-https://cooluncle.top
+https://cooluncle.fun
 
 **技术栈**
 
