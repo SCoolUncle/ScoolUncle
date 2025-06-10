@@ -40,6 +40,7 @@ https://cooluncle.fun
 * [《高效能人士的七个习惯》](https://weread.qq.com/web/reader/56d325907203e8a856def7f)
 * [《只管去做》](https://weread.qq.com/web/bookDetail/45f32420726172d145ff822)
 * [《程序员的README》](https://weread.qq.com/web/reader/10a328d0813ab8038g010b94)
+* [《认知觉醒》](https://weread.qq.com/web/reader/6a732ce07201202c6a7b30a)
 
 * [《React技术揭秘》](https://react.iamkasong.com/)
 * [《重构：改善既有代码的设计》](https://weread.qq.com/web/bookDetail/2ed32e60811e3a304g014c02)
